@@ -1,7 +1,7 @@
 package gopaypal
 
 const (
-	SandBoxURL          = "https://api.sandbox.paypal.com"
+	SandBoxURL          = "https://api-m.sandbox.paypal.com/"
 	LiveURL             = "https://api.paypal.com"
 	IdentitySandBoxURL  = "https://www.sandbox.paypal.com"
 	IdentityLiveURL     = "https://www.paypal.com"
